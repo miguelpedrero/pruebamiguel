@@ -1,0 +1,80 @@
+body {
+	font-family: 'Baloo Da', cursive;
+}
+
+.main {
+	background: url(../images/aula.jpg) center center;
+	background-size: cover;
+  	}
+
+
+.center-block {
+	width: 200px;
+	margin: 0 auto;
+	padding: 30px 0px 30px;
+	position: relative;
+
+}
+
+.headline {
+	color: #FF4500;
+	font-size: 70px;
+	padding: 30px;
+	text-align: center;	
+}
+
+.headline-caption {
+	color: #00008B;
+	font-size: 20px;
+	text-align: center;
+	padding: 2px 0px 2px;
+	background-color: #6495ED;
+
+}
+
+.call-to-action {
+	text-align: center;
+	padding: 30px 0px 30px;}
+
+.block {
+	background-color: #5F9EA0;
+}
+.block h2.headline {
+	color: red;
+	font-size: 40px;
+	text-align: center;
+	padding: 30px 0px 30px;}
+
+.block p.headline-caption {
+	color: #DCDCDC;
+	background-color: transparent;
+		text-align: center;
+	padding: 0px 0px 30px;
+
+}
+
+section.section {
+	background:#C0C0C0;
+	text-align: center;
+	padding: 40px 0px 40px
+}
+
+section.empresa {
+	text-align: center;
+	padding: 30px	0px 40px;
+		display: block;	
+	margin: 0px auto;
+	max-width: 400px; 
+ }
+
+section.empresa h3 {
+	color: red;
+	font-size: 50px;
+}
+
+
+
+
+
+
+
